@@ -2,6 +2,7 @@ export interface ToDo {
     tarefa: string;
     id: number;
     check: boolean;
+    input: boolean;
 }
 
 
